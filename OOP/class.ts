@@ -26,6 +26,7 @@ class User {
 
 }
 
+
 const user1 = new User("Seyam","s@mail.com","0170000000",25,"seyam");
 
 console.log(user1);
