@@ -33,7 +33,7 @@ interface antenna<B>{
 
 interface bands {
 
-    [index: number] : number ; 
+    [index: number] : number  ;
 };
 
 

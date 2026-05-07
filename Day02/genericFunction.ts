@@ -2,7 +2,6 @@ const createArrayWithTuple = <X,Y> (param1: X , param2: Y) :[X,Y] =>{
 
         return [param1,param2 ] 
                  
-
 }
 
 const reN = createArrayWithTuple(3,4);
